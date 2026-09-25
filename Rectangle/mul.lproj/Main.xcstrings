@@ -50643,6 +50643,24 @@
           }
         }
       }
+    },
+    "V7x-Q2-aR8.title" : {
+      "comment" : "Class = \"NSMenuItem\"; title = \"Windows-style repeated direction (down minimizes)\"; ObjectID = \"V7x-Q2-aR8\";",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Windows-Verhalten: Richtung wiederholen, ↓ minimiert"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Windows-style repeated direction (down minimizes)"
+          }
+        }
+      }
     }
   },
   "version" : "1.0"
