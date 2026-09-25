@@ -9,6 +9,7 @@ enum SubsequentExecutionMode: Int {
     case acrossAndResize = 3 // across monitor for right/left, spectacle resize for all else
     case cycleMonitor = 4
     case resizeAndCycleQuadrants = 5
+    case windowsRepeat = 6
 }
 
 class SubsequentExecutionDefault: Default {
