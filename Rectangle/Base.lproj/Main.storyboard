@@ -2815,6 +2815,7 @@
                                                                     <menuItem title="move to adjacent display on left or right" tag="1" id="Z9d-Rl-RVq"/>
                                                                     <menuItem title="move to adjacent on left/right, or cycle size on side" state="on" tag="3" id="3GE-la-fAZ"/>
                                                                     <menuItem title="cycle positions on quadrants, cycle sizes on side" tag="5" id="qCy-Kx-9mR"/>
+                                                                    <menuItem title="Windows-style repeated direction (down minimizes)" tag="6" id="V7x-Q2-aR8"/>
                                                                 </items>
                                                             </menu>
                                                         </popUpButtonCell>
